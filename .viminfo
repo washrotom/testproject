@@ -9,11 +9,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-:q!
 :q
+:w
+:q!
 :test.c W
 :!
-:w
 
 # Search String History (newest to oldest):
 
@@ -30,18 +30,23 @@
 	단 \n", i
 
 # File marks:
-'0  7  22  ~/Gugudan.c
-'1  8  3  ~/Gugudan.c
-'2  6  21  ~/Gugudan.c
-'3  1  0  ~/Gugudan.
-'4  11  26  ~/Gugudan.c
-'5  14  9  ~/Gugudan.c
-'6  15  0  ~/Gugudan.c
-'7  3  5  ~/cindent
-'8  3  10  ~/Gugudan.c
-'9  2  0  ~/test.c
+'0  4  23  ~/JAVA_1/Gugudan.java
+'1  14  0  ~/JAVA_1/Gugudan.java
+'2  4  1  ~/Test.java
+'3  1  9  ~/Test.java
+'4  7  22  ~/Gugudan.c
+'5  8  3  ~/Gugudan.c
+'6  6  21  ~/Gugudan.c
+'7  1  0  ~/Gugudan.
+'8  11  26  ~/Gugudan.c
+'9  14  9  ~/Gugudan.c
 
 # Jumplist (newest first):
+-'  4  23  ~/JAVA_1/Gugudan.java
+-'  1  0  ~/JAVA_1/Gugudan.java
+-'  14  0  ~/JAVA_1/Gugudan.java
+-'  4  1  ~/Test.java
+-'  1  0  ~/Test.java
 -'  7  22  ~/Gugudan.c
 -'  1  0  ~/Gugudan.c
 -'  8  3  ~/Gugudan.c
@@ -135,12 +140,40 @@
 -'  1  0  ~/consume.c
 -'  6  1  ~/consume.c
 -'  1  0  ~/consume.c
--'  6  1  ~/consume.c
--'  1  0  ~/consume.c
--'  6  1  ~/consume.c
--'  1  0  ~/consume.c
 
 # History of marks within files (newest to oldest):
+
+> ~/JAVA_1/Gugudan.java
+	"	4	23
+	^	4	24
+	.	4	23
+	+	2	42
+	+	4	55
+	+	6	22
+	+	5	14
+	+	8	27
+	+	9	21
+	+	7	33
+	+	9	22
+	+	7	28
+	+	9	48
+	+	14	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	4	23
+
+> ~/Test.java
+	"	4	1
+	^	1	10
+	.	1	9
+	+	4	41
+	+	6	0
+	+	1	9
 
 > ~/Gugudan.c
 	"	7	22

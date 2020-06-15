@@ -237,3 +237,92 @@ git remote add origin https://github.com/washrotom/testproject.git
 git fetch
 git pull
 git pull origin master 
+git remote show origin
+git fetch
+git pull
+clear
+git fetch
+git status
+git commit -m "Git AVG S"
+git log
+git remote
+git fetch
+git push
+git push -u origin master 
+git fetch
+git pull
+git branch
+git branch TestSourceHongbeom
+git branch
+git checkout TestSourceHongbeom 
+git branch 
+git log
+git status
+git commit -u "GitGit"
+git commit -m "GitGit"
+git add -u
+git add --help
+git log
+git branch
+git clone https://github.com/washrotom/testproject.git
+cd .\testprojectgit log
+git status
+git log
+git push
+git branch
+git log
+git log --stat
+git remote
+git remote show origin 
+git remote -v
+git add .
+git commit -m "Add branch"
+git status
+git log
+git head
+git fetch
+git pull
+git push origin TestSourceHongbeom 
+vim Test.java
+ls
+javac Test.java
+ls
+java Test
+ls
+ls -a
+vim Test.java 
+ls
+rm Test
+rm Test.java
+ls
+rm Test.class 
+rm nembi
+ls
+rm Nembi.c 
+mkdir JAVA_1
+ls
+cd ./JAVA_1
+ls
+ls -a
+vim Gugudan.java
+ls
+javac Gugudan.java 
+ls
+java Gugudan 
+clear
+vim Gugudan.java 
+ls
+javac Gugudan.java 
+java Gugudan 
+clear
+cd iCloud
+cd ./
+ls
+cd
+ls
+cd ..
+ls
+cd
+ls
+pwd
+clear
